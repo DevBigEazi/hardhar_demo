@@ -2,6 +2,8 @@
   "name": "hardhat-demo",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/DevBigEazi/hardhar_demo.git",
+  "author": "devbigeazi <adesholatajudeen1@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
